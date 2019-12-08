@@ -18,6 +18,7 @@ github_username:  vbbphc
 disqus_baseurl: "https://vbbphc.github.io/"
 disqus_shortname: vaibhavballoli
 
+markdown: kramdown
 # About/contact
 author:
   name:              Vaibhav Balloli
