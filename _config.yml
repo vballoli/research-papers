@@ -2,15 +2,15 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 #permalink:           pretty
-permalink:           "/:title"
+permalink: :title
 #relative_permalinks: true
 
 # Setup
 title:               "Research Papers"
 tagline:             "Read, Review, Research, Repeat"
 description:         "Review and summaries of research papers in the broad field of Machine Learning"
-url:                 "https://vbbphc.github.io"
-baseurl:             "/lanyon"
+url:                 "https://vbbphc.github.io/lanyon"
+baseurl:             ""
 paginate:            5
 plugins:             [jekyll-paginate]
 twitter_username: v_balloli
