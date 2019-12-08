@@ -12,6 +12,7 @@ description:         "Review and summaries of research papers in the broad field
 url:                 "https://vbbphc.github.io"
 baseurl:             "/lanyon"
 paginate:            5
+plugins:             [jekyll-paginate]
 
 # About/contact
 author:
