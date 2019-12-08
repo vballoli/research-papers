@@ -13,6 +13,10 @@ url:                 "https://vbbphc.github.io"
 baseurl:             "/lanyon"
 paginate:            5
 plugins:             [jekyll-paginate]
+twitter_username: v_balloli
+github_username:  vbbphc
+disqus_baseurl: "https://vbbphc.github.io/"
+disqus_shortname: vaibhavballoli
 
 # About/contact
 author:
@@ -22,3 +26,43 @@ author:
 
 # Custom vars
 version:             1.0.0
+
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+  - jekyll-seo-tag
+
+exclude:
+  - "/vendor/"
+    
+social:
+  - name: Twitter
+    icon: twitter
+    username: v_balloli
+    url: https://twitter.com/v_balloli
+    desc: 
+    share: true
+  
+  - name: GitHub
+    icon: github
+    username: vbbphc
+    url: https://github.com/vbbphc
+    desc: 
+    share: false
+    
+  - name: Linkedin
+    icon: linkedin
+    username: vaibhavballoli
+    url: https://linkedin.com/in/vaibhavballoli
+    desc: 
+    share: true
+    
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: "Vaibhav Balloli"
+ 
+  
