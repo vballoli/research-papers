@@ -9,8 +9,8 @@ permalink: :title
 title:               "Research Papers"
 tagline:             "Read, Review, Research, Repeat"
 description:         "Review and summaries of research papers in the broad field of Machine Learning"
-url:                 "https://vbbphc.github.io/lanyon"
-baseurl:             ""
+url:                 "https://vbbphc.github.io"
+baseurl:             "/lanyon"
 paginate:            5
 plugins:             [jekyll-paginate]
 twitter_username: v_balloli
