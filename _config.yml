@@ -67,5 +67,6 @@ defaults:
       
 gems: [jekyll-paginate]
 paginate_path: "page:num" 
- 
+
+excerpt_separator: <!--end_excerpt-->
   
