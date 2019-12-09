@@ -8,10 +8,10 @@ layout: default
   <div class="post-categories">
     {% if post %}
       {% assign categories = post.categories %}
-      {% assign tags = post.categories %}
+      {% assign tags = post.tags %}
     {% else %}
       {% assign categories = page.categories %}
-      {% assign tags = page.categories %}
+      {% assign tags = page.tags %}
     {% endif %}
     <a href="{{site.url}}{{site.baseurl}}/categories/">Categories</a>
     <a>: [</a>
