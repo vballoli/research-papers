@@ -18,7 +18,7 @@ github_username:  vbbphc
 disqus_baseurl: "https://vbbphc.github.io/"
 disqus_shortname: vaibhavballoli
 
-markdown: Pandoc
+markdown: kramdown
 # About/contact
 author:
   name:              Vaibhav Balloli
@@ -33,10 +33,6 @@ gems:
   - jekyll-paginate
   - jemoji
   - jekyll-seo-tag
-  - jekyll-pandoc
-pandoc:
-  extensions:
-  - mathjax  
 
 exclude:
   - "/vendor/"
