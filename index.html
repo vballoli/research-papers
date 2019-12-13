@@ -15,6 +15,17 @@ title: Home
     <span class="post-date">{{ post.date | date_to_string }}, {% assign words = content | number_of_words %}{% if words < 360 %} 1 min read{% else %} {{ words | divided_by:180 }} mins read{% endif %}</span>
 
     {{ post.excerpt }}
+    <div class="post-categories">
+      <br/>
+      {% assign categories = post.categories %}
+      <a href="{{site.url}}{{site.baseurl}}/categories/">Categories</a>
+      <a>: [</a>
+      {% for category in categories %}
+      <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+      {% unless forloop.last %},{% endunless %}
+      {% endfor %}
+      <a>]</a>
+    </div>
   </div>
   {% endfor %}
 </div>
