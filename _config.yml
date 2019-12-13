@@ -19,6 +19,8 @@ disqus_baseurl: "https://vbbphc.github.io/"
 disqus_shortname: vaibhavballoli
 
 markdown: kramdown
+kramdown:
+  math_engine: katex
 # About/contact
 author:
   name:              Vaibhav Balloli
