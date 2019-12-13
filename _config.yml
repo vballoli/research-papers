@@ -34,9 +34,9 @@ gems:
   - jemoji
   - jekyll-seo-tag
   - jekyll-pandoc
-  pandoc:
-    extensions:
-    - mathjax  
+pandoc:
+  extensions:
+  - mathjax  
 
 exclude:
   - "/vendor/"
