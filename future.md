@@ -8,3 +8,13 @@ A not so exhaustive priority queue of papers to read, summarize and review. Sugg
 1. Rectified Adam: [Arxiv](https://arxiv.org/pdf/1908.03265.pdf)
 
 2. Uniform convergence may be unable to explain generalization in Deep Learning: [Arxiv](https://arxiv.org/abs/1902.04742) - Received the Outstanding New Direction paper award @ NeurIPS'19 !!
+
+3. Sequence to Sequence Learning with Neural Networks: [Arxiv](https://arxiv.org/abs/1409.3215)
+
+4. Attention is all you need: [Arxiv](https://arxiv.org/abs/1706.03762) 
+
+5. BERT: Pre-training of Deep BiDirectional Transformers for Language Understanding: [Arxiv](https://arxiv.org/abs/1810.04805)
+
+6. The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks : [Arxiv](https://arxiv.org/abs/1803.03635)
+
+7. Sequence Generative Adversarial Nets with Policy Gradient: [Arxiv](https://arxiv.org/abs/1609.05473)
