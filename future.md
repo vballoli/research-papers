@@ -2,7 +2,7 @@
 layout: page
 title: Coming up
 ---
-A not so exhaustive priority queue of papers to read, summarize and review. Suggestions are encouraged!! I'd be happy to discuss any my prevous posts/upcoming posts, you can [contact me here](https://vbbphc.github.io/profile).
+A not so exhaustive priority queue of papers to read, summarize and review. Suggestions are encouraged!! I'd be happy to discuss any my prevous posts/upcoming posts, you can [contact me here](https://vballoli.github.io/).
 
 
 1. Rectified Adam: [Arxiv](https://arxiv.org/pdf/1908.03265.pdf)
