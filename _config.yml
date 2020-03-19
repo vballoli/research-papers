@@ -9,13 +9,13 @@ permalink: :title
 title:               "Research Papers"
 tagline:             "Read, Review, Research, Repeat"
 description:         "Review and summaries of research papers in the broad field of Machine Learning"
-url:                 "https://vbbphc.github.io"
+url:                 "https://vballoli.github.io"
 baseurl:             "/research-papers"
 paginate:            10
 plugins:             [jekyll-paginate]
 twitter_username: v_balloli
-github_username:  vbbphc
-disqus_baseurl: "https://vbbphc.github.io/"
+github_username:  vballoli
+disqus_baseurl: "https://vballoli.github.io/"
 disqus_shortname: vaibhavballoli
 
 markdown: kramdown
