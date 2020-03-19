@@ -24,7 +24,7 @@ kramdown:
 # About/contact
 author:
   name:              Vaibhav Balloli
-  url:               https://twitter.com/v_balloli
+  url:               https://vballoli.github.io
   email:             balloli.vb@gmail.com
 
 # Custom vars
@@ -40,6 +40,13 @@ exclude:
   - "/vendor/"
     
 social:
+  - name: Google Scholar
+    icon: scholar
+    username: v_balloli
+    url: https://scholar.google.com/citations?user=-6i7e7sAAAAJ&hl=en&oi=ao
+    desc: 
+    share: true
+    
   - name: Twitter
     icon: twitter
     username: v_balloli
