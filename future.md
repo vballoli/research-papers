@@ -18,3 +18,9 @@ A not so exhaustive priority queue of papers to read, summarize and review. Sugg
 6. The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks : [Arxiv](https://arxiv.org/abs/1803.03635)
 
 7. Sequence Generative Adversarial Nets with Policy Gradient: [Arxiv](https://arxiv.org/abs/1609.05473)
+
+8. Supervised Contrastive Learning: [Arxiv](https://arxiv.org/abs/2004.11362)
+
+9. Dream to Control: [Arxiv](https://arxiv.org/pdf/1912.01603.pdf)
+
+10. Training Agents using Upside-Down Reinforcement Learning: [Arxiv](https://arxiv.org/abs/1912.02877)
